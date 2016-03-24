@@ -2,7 +2,7 @@
 
 # Shopware New Relic Integration
 > Working with Shopware version: X.X.X to X.X.X 
-> Type:Frontend
+> Type: Frontend
 
 ## Description
 sets the newrelic_name_transaction to $controllerName/$actionName
